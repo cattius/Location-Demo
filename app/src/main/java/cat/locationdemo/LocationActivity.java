@@ -33,6 +33,11 @@ import com.google.android.gms.maps.model.MarkerOptions;
 import static android.graphics.Color.WHITE;
 import static cat.locationdemo.R.id.map;
 
+/**
+ * Created by Cat on 06/05/2017.
+ * This class contains the main code used in the article.
+ */
+
 public class LocationActivity extends FragmentActivity implements
         OnMapReadyCallback,
         GoogleApiClient.ConnectionCallbacks,
